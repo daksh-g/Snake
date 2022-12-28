@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(60, 60, 100);
+    color: white;
+    font-family: 'Roboto';
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(0%);
+}
+canvas {
+    border: 5px solid white;
+    margin: 0px;
+}
